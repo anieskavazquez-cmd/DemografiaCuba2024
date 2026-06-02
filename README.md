@@ -17,20 +17,20 @@ A través de técnicas de **Data Storytelling**, el tablero no solo muestra "qu�
 * Los nacimientos en 2024 (71 mil) representan una caída del **32%** solo en comparación con 2020.
 * La Tasa de Mortalidad ha subido un **44.9%** desde 2020, acercándose peligrosamente a la Tasa de Natalidad, evidenciando un envejecimiento poblacional acelerado y falta de reemplazo generacional.
 
-> `![Evolución Histórica](Pag1.png)`
+>![Evolución Histórica](Pag1.png)
 
 ### 2. ¿Dónde están las mujeres? (La Paradoja Demográfica)
 * Aunque las mujeres siguen siendo mayoría (más del 50%), en números absolutos la población general y femenina está cayendo.
 * El núcleo del problema: La población de mujeres en **edad fértil (15-49 años) se ha desplomado un 19.25%**.
 * El nacimiento de niñas ha caído casi un 30%, comprometiendo la base reproductiva futura.
 
-> `![Análisis de Mujeres](Pag2.png)`
+> ![Análisis de Mujeres](Pag2.png)
 
 ### 3. La Ruptura Estructural de 2024
 * El grupo de 30 a 34 años (madurez profesional/estabilidad) fue el que más colapsó en 2024, cayendo un **24%**. La maternidad no se está posponiendo, está desapareciendo.
 * **La resistencia adolescente:** El embarazo adolescente (15-19 años) fue el que menos disminuyó (solo 9%), convirtiéndose de manera preocupante en el tercer grupo poblacional que más nacimientos aporta al país.
 
-> `![Fecundidad por Edades](Pag3.png)`
+> ![Fecundidad por Edades](Pag3.png)
 
 ---
 
